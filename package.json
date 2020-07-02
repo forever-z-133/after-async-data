@@ -1,0 +1,22 @@
+{
+  "name": "after-async-data",
+  "version": "1.0.1",
+  "description": "在获得某结果前进行排队，等获取结果后再运行。",
+  "main": "index.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/forever-z-133/after-async-data.git"
+  },
+  "keywords": [
+    "wait-queue",
+    "wait-before-task",
+    "data-cache"
+  ],
+  "author": "forever-z-133",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/forever-z-133/after-async-data/issues"
+  },
+  "homepage": "https://github.com/forever-z-133/after-async-data"
+}
